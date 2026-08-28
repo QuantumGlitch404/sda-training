@@ -37,3 +37,25 @@ This repository contains my 4-week Mechlin Tech training work.
 - Responsive Design
 - JavaScript Interactions
 - Responsive Dashboard
+
+### Day 3 - JavaScript Advanced
+
+- ES6+ Features
+- Arrow Functions
+- Destructuring
+- Template Literals
+- ES6 Modules
+- Import and Export
+- Async/Await
+- Promises
+- Closures
+- Prototypes
+- ES6 Classes
+- Event Handling
+- Memory Management
+- Chart.js
+- Data Visualization
+- Performance Monitoring
+- Error Handling
+- JavaScript Performance Optimization
+- Modular Dashboard Application
